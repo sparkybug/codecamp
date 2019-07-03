@@ -1,0 +1,58 @@
+.first{
+    background-color: lightgray;
+    border: 2px solid rgb(112, 3, 3);
+    width: 300px;
+    height: 340px;
+}
+
+.calculate{
+    background-color: rgb(245, 234, 214);
+    width: 300px;
+    height: 80px;
+    border: 8px;
+}
+
+.divider{
+    background-color: brown;
+}
+
+.table{
+    width: 300px;
+    height: 260px;
+    text-align: center;
+    text-decoration: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    font-size: 21px;
+    border: 2px solid rgb(180, 119, 6);
+    border-radius: 8px;
+}
+
+.signs{
+    background-color: rgb(165, 164, 164);
+}
+
+#equal{
+    background-color: rgb(226, 216, 216);
+    color: black;
+}
+
+tr{
+    border: 1px solid burlywood;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+td{
+    border: 2px solid rgb(139, 6, 6);
+    border-radius: 8px;
+    height: 50px;
+    width: 50px;
+}
+
+.nothing{
+    border: none;
+    border-radius: 0px;
+}

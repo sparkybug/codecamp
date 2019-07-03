@@ -1,0 +1,24 @@
+h3{
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+}
+
+h4{
+    color: brown;
+    text-align: center;
+}
+
+p{
+    color: burlywood;
+    letter-spacing: 0.1ppx;
+    word-spacing: 1.5px;
+    text-align: left;
+    padding: 2px;
+}
+
+img{
+    border: 3px solid burlywood;
+    height: 80px;
+    width: 60px;
+}

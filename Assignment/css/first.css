@@ -1,0 +1,39 @@
+.first{
+    border: 4px solid burlywood;
+    border-radius: 8px solid black;
+    height: 400px;
+    width: 260px;
+}
+
+.picture{
+    border: none;
+    height: 180px;
+    width: 26px;
+}
+
+img{
+    height: 190px;
+    width: 260px;
+}
+
+.headerTag{
+    text-transform: capitalize;
+    color: orange;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Tw Cent', 'Trebuchet MS', 'Lucida Sans Unicode';
+    margin: 0px 0px 10px; 
+}
+
+p{
+    text-transform: none;
+    text-indent: 5px;
+    text-align: left;
+    word-spacing: 2px;
+    letter-spacing: 0.1px;
+    font-size: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+    margin: 0px 0px 3px;
+    padding: 2px;
+}
